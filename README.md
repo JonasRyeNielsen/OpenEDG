@@ -1,2 +1,2 @@
 # hello-world
-Mit c programmerings repo
+Noter fra Kursus i C programmering
